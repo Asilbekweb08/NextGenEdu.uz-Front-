@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -23,9 +22,5 @@
     "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
     "typescript": "^5"
-=======
-  "dependencies": {
-    "lucide-react": "^0.576.0"
->>>>>>> 8b3973eec4f6d95b55574271c67f7a73c236c3a1
   }
 }
